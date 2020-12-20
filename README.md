@@ -1,4 +1,4 @@
 # Password Generator of the Day
 - A password generating website
 
-https://0726hayate.github.io/Password-Generator-of-the-Day
+https://0726hayate.github.io/PasswordGen
